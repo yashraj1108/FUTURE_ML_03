@@ -1,0 +1,13 @@
+candidate_id,name,years_exp,current_role,skills
+C100,Aisha Rahman,5,Data Scientist,"python, machine learning, deep learning, nlp, tensorflow, scikit-learn, pandas, numpy, sql, aws, tableau, feature engineering, communication"
+C101,James Okafor,4,Data Scientist,"python, machine learning, pytorch, scikit-learn, pandas, numpy, sql, gcp, plotly, feature engineering, communication, nlp"
+C102,Sofia Martínez,3,Data Scientist,"python, scikit-learn, pandas, numpy, sql, machine learning, feature engineering, tableau, communication"
+C103,Chen Wei,2,Junior Data Scientist,"python, pandas, numpy, sql, scikit-learn, machine learning, matplotlib, communication"
+C104,Priya Nair,6,ML Engineer,"python, tensorflow, pytorch, docker, kubernetes, aws, mlops, airflow, kafka, sql, machine learning, ci/cd, agile, transformers"
+C105,Lucas Oliveira,4,ML Engineer,"python, pytorch, docker, kubernetes, gcp, mlops, airflow, sql, machine learning, agile, ci/cd"
+C106,Fatima Al-Zahra,3,Data Analyst,"sql, python, tableau, power bi, communication, problem solving, snowflake, bigquery, agile"
+C107,Marcus Johnson,5,Data Analyst,"sql, tableau, power bi, looker, python, communication, problem solving, bigquery, plotly"
+C108,Lena Müller,1,Student,"python, sql, pandas, numpy, communication"
+C109,Raj Patel,2,Software Engineer,"javascript, typescript, java, sql, docker, aws, agile, communication"
+C110,Yuki Tanaka,3,Backend Developer,"python, java, go, postgresql, redis, docker, kubernetes, agile"
+C111,Diana Popescu,7,Senior Data Engineer,"python, sql, spark, kafka, airflow, aws, dbt, etl, data pipeline, snowflake, postgresql"
